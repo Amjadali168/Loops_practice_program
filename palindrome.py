@@ -1,4 +1,4 @@
-# Write a program to check if a given string is a palindrome using a while loop.
+# Write a program to check if a given number is a palindrome using a while loop.
 num = int(input("enter a number: "))
 temp = num
 reverse = 0
